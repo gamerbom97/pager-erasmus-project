@@ -7,4 +7,4 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/gamerbom97/pager-erasmus-project** and click import
 
-## Pager based chatting program made in python for BBC output: © MicroBit
+## Pager based chatting program made in python for BBC© MicroBit
